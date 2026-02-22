@@ -2,7 +2,7 @@
 https://modrinth.com/resourcepack/default-dark-mode
 
 ## Гайд:
- 1. Скачайте последний релиз с этой ссылки: https://github.com/UNNAMMEDUSER/SkyBlockMDDM/releases/tag/Lastrelease
+ 1. Скачайте последний релиз с этой ссылки: https://github.com/tochkaszapetoi/SkyBlockMDDM/releases/latest
  2. Скачайте требуемый ресурс пак для вашей версии
  3. Перенесите скаченные ресурспаки в папку %APPDATA%/.minecraft/resourcepacks
  4. Запустите minecraft
