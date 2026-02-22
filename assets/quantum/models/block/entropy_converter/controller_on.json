@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "quantum:block/entropy_converter/controller",
+	"textures": {
+		"0": "quantum:block/entropy_converter/controller_on"
+	}
+}

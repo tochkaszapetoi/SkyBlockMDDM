@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/coke_oven/casing",
+	"textures": {
+		"overlay": "electricity:block/vacuum_freezer/power_unit_2"
+	}
+}

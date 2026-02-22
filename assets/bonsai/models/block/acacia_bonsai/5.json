@@ -1,0 +1,6 @@
+{
+    "parent": "bonsai:block/acacia_bonsai/0",
+    "textures": {
+        "crop": "bonsai:block/acacia_bonsai/5"
+    }
+}

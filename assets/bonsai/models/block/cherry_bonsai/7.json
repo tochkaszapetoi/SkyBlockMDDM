@@ -1,0 +1,6 @@
+{
+    "parent": "bonsai:block/cherry_bonsai/0",
+    "textures": {
+        "crop": "bonsai:block/cherry_bonsai/7"
+    }
+}

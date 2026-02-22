@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "quantum:block/entropy_converter/casing",
+	"textures": {
+		"overlay": "electricity:block/vacuum_freezer/hopper_out"
+	}
+}

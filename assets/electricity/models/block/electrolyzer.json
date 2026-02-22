@@ -1,0 +1,7 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/electrolyzer_inventory",
+	"textures": {
+		"1": "electricity:block/overclock/empty"
+	}
+}

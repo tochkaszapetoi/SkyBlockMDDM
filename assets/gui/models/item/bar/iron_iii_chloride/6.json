@@ -1,0 +1,6 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "gui:item/bar/iron_iii_chloride/6"
+	}
+}

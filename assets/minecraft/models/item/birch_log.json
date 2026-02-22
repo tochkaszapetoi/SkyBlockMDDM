@@ -1,0 +1,1 @@
+{"parent":"minecraft:block/birch_log","overrides":[{"model":"electricity:block/stabilizing_room/casing_connecting/111111","predicate":{"custom_model_data":1}},{"model":"july1:block/2024/yandex_courier_station","predicate":{"custom_model_data":2}},{"model":"minecraft:item/source/barrier","predicate":{"custom_model_data":3}}],"credit":"RPSplitterM"}

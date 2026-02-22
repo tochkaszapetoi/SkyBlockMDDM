@@ -1,0 +1,1 @@
+{"model": {"type": "range_dispatch", "property": "custom_model_data", "fallback": {"type": "model", "model": "item/iron_boots"}, "entries": [{"threshold": 1000, "model": {"type": "model", "model": "july1:item/2025/gravity_boots"}}]}}

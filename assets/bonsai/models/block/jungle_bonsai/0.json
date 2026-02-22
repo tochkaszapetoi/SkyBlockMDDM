@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/crop",
+    "textures": {
+        "crop": "bonsai:block/jungle_bonsai/0"
+    }
+}

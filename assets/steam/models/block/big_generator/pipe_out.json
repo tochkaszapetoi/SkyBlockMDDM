@@ -1,0 +1,7 @@
+{
+	"parent": "steam:block/big_generator/casing",
+	"textures": {
+		"1": "steam:block/big_generator/pipe_out",
+		"particle": "steam:block/big_generator/pipe_out"
+	}
+}

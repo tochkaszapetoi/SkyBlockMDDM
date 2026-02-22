@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/turbine/big/completed/fluid",
+	"textures": {
+		"0": "electricity:block/turbine/big/completed/fluid_on"
+	}
+}

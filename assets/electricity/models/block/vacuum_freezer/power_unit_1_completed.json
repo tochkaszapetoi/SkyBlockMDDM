@@ -1,0 +1,8 @@
+{
+	"credit": "Miwo4ka",
+	"parent": "electricity:block/vacuum_freezer/casing",
+	"textures": {
+		"0": "electricity:block/vacuum_freezer/empty",
+		"overlay": "electricity:block/vacuum_freezer/power_unit_1"
+	}
+}

@@ -1,0 +1,349 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/1.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/2.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/3.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/4.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/5.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/6.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/7.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/8.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/9.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": [
+                "\u1008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/10.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "\u1009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/11.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "\u100a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/12.png",
+            "ascent": 7,
+            "height": 12,
+            "chars": [
+                "\u100b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/13.png",
+            "ascent": 7,
+            "height": 13,
+            "chars": [
+                "\u100c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/14.png",
+            "ascent": 7,
+            "height": 14,
+            "chars": [
+                "\u100d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/15.png",
+            "ascent": 7,
+            "height": 15,
+            "chars": [
+                "\u100e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/16.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u100f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/17.png",
+            "ascent": 7,
+            "height": 17,
+            "chars": [
+                "\u1010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/18.png",
+            "ascent": 7,
+            "height": 18,
+            "chars": [
+                "\u1011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/19.png",
+            "ascent": 7,
+            "height": 19,
+            "chars": [
+                "\u1012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/20.png",
+            "ascent": 7,
+            "height": 20,
+            "chars": [
+                "\u1013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/21.png",
+            "ascent": 7,
+            "height": 21,
+            "chars": [
+                "\u1014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/22.png",
+            "ascent": 7,
+            "height": 22,
+            "chars": [
+                "\u1015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/23.png",
+            "ascent": 7,
+            "height": 23,
+            "chars": [
+                "\u1016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/24.png",
+            "ascent": 7,
+            "height": 24,
+            "chars": [
+                "\u1017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/25.png",
+            "ascent": 7,
+            "height": 25,
+            "chars": [
+                "\u1018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/26.png",
+            "ascent": 7,
+            "height": 26,
+            "chars": [
+                "\u1019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/27.png",
+            "ascent": 7,
+            "height": 27,
+            "chars": [
+                "\u101a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/28.png",
+            "ascent": 7,
+            "height": 28,
+            "chars": [
+                "\u101b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/29.png",
+            "ascent": 7,
+            "height": 29,
+            "chars": [
+                "\u101c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/30.png",
+            "ascent": 7,
+            "height": 30,
+            "chars": [
+                "\u101d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/31.png",
+            "ascent": 7,
+            "height": 31,
+            "chars": [
+                "\u101e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/32.png",
+            "ascent": 7,
+            "height": 32,
+            "chars": [
+                "\u101f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/33.png",
+            "ascent": 7,
+            "height": 33,
+            "chars": [
+                "\u1020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/34.png",
+            "ascent": 7,
+            "height": 34,
+            "chars": [
+                "\u1021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/35.png",
+            "ascent": 7,
+            "height": 35,
+            "chars": [
+                "\u1022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/36.png",
+            "ascent": 7,
+            "height": 36,
+            "chars": [
+                "\u1023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/37.png",
+            "ascent": 7,
+            "height": 37,
+            "chars": [
+                "\u1024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/biodiesel/38.png",
+            "ascent": 7,
+            "height": 38,
+            "chars": [
+                "\u1025"
+            ]
+        },
+
+        { "type": "bitmap", "file": "chat:background/season/3/biodiesel/prefix.png", "ascent": 7, "height": 8, "chars": [ "\u2000" ] },
+        { "type": "bitmap", "file": "chat:background/season/3/biodiesel/suffix.png", "ascent": 7, "height": 8, "chars": [ "\u2001" ] }
+    ]
+}

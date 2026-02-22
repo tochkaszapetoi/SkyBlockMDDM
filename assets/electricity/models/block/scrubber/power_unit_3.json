@@ -1,0 +1,8 @@
+{
+	"credit": "levnemcev",
+	"parent": "electricity:block/scrubber/power_unit_1",
+	"textures": {
+		"0": "electricity:block/scrubber/power_unit_3",
+		"particle": "electricity:block/scrubber/power_unit_3"
+	}
+}

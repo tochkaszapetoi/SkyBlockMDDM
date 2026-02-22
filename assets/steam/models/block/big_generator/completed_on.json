@@ -1,0 +1,7 @@
+{
+	"credit": "levnemcev",
+	"parent": "steam:block/big_generator/completed",
+	"textures": {
+		"0": "steam:block/big_generator/completed_on"
+	}
+}

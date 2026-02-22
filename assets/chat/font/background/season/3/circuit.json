@@ -1,0 +1,904 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/1.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1000"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/2.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1001"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/3.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1002"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/4.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1003"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/5.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1004"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/6.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1005"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/7.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1006"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/8.png",
+            "ascent": 7,
+            "height": 8,
+            "chars": [
+                "\u1007"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/9.png",
+            "ascent": 7,
+            "height": 9,
+            "chars": [
+                "\u1008"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/10.png",
+            "ascent": 7,
+            "height": 10,
+            "chars": [
+                "\u1009"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/11.png",
+            "ascent": 7,
+            "height": 11,
+            "chars": [
+                "\u100a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/12.png",
+            "ascent": 7,
+            "height": 12,
+            "chars": [
+                "\u100b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/13.png",
+            "ascent": 7,
+            "height": 13,
+            "chars": [
+                "\u100c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/14.png",
+            "ascent": 7,
+            "height": 14,
+            "chars": [
+                "\u100d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/15.png",
+            "ascent": 7,
+            "height": 15,
+            "chars": [
+                "\u100e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/16.png",
+            "ascent": 7,
+            "height": 16,
+            "chars": [
+                "\u100f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/17.png",
+            "ascent": 7,
+            "height": 17,
+            "chars": [
+                "\u1010"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/18.png",
+            "ascent": 7,
+            "height": 18,
+            "chars": [
+                "\u1011"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/19.png",
+            "ascent": 7,
+            "height": 19,
+            "chars": [
+                "\u1012"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/20.png",
+            "ascent": 7,
+            "height": 20,
+            "chars": [
+                "\u1013"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/21.png",
+            "ascent": 7,
+            "height": 21,
+            "chars": [
+                "\u1014"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/22.png",
+            "ascent": 7,
+            "height": 22,
+            "chars": [
+                "\u1015"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/23.png",
+            "ascent": 7,
+            "height": 23,
+            "chars": [
+                "\u1016"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/24.png",
+            "ascent": 7,
+            "height": 24,
+            "chars": [
+                "\u1017"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/25.png",
+            "ascent": 7,
+            "height": 25,
+            "chars": [
+                "\u1018"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/26.png",
+            "ascent": 7,
+            "height": 26,
+            "chars": [
+                "\u1019"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/27.png",
+            "ascent": 7,
+            "height": 27,
+            "chars": [
+                "\u101a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/28.png",
+            "ascent": 7,
+            "height": 28,
+            "chars": [
+                "\u101b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/29.png",
+            "ascent": 7,
+            "height": 29,
+            "chars": [
+                "\u101c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/30.png",
+            "ascent": 7,
+            "height": 30,
+            "chars": [
+                "\u101d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/31.png",
+            "ascent": 7,
+            "height": 31,
+            "chars": [
+                "\u101e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/32.png",
+            "ascent": 7,
+            "height": 32,
+            "chars": [
+                "\u101f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/33.png",
+            "ascent": 7,
+            "height": 33,
+            "chars": [
+                "\u1020"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/34.png",
+            "ascent": 7,
+            "height": 34,
+            "chars": [
+                "\u1021"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/35.png",
+            "ascent": 7,
+            "height": 35,
+            "chars": [
+                "\u1022"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/36.png",
+            "ascent": 7,
+            "height": 36,
+            "chars": [
+                "\u1023"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/37.png",
+            "ascent": 7,
+            "height": 37,
+            "chars": [
+                "\u1024"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/38.png",
+            "ascent": 7,
+            "height": 38,
+            "chars": [
+                "\u1025"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/39.png",
+            "ascent": 7,
+            "height": 39,
+            "chars": [
+                "\u1026"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/40.png",
+            "ascent": 7,
+            "height": 40,
+            "chars": [
+                "\u1027"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/41.png",
+            "ascent": 7,
+            "height": 41,
+            "chars": [
+                "\u1028"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/42.png",
+            "ascent": 7,
+            "height": 42,
+            "chars": [
+                "\u1029"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/43.png",
+            "ascent": 7,
+            "height": 43,
+            "chars": [
+                "\u102a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/44.png",
+            "ascent": 7,
+            "height": 44,
+            "chars": [
+                "\u102b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/45.png",
+            "ascent": 7,
+            "height": 45,
+            "chars": [
+                "\u102c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/46.png",
+            "ascent": 7,
+            "height": 46,
+            "chars": [
+                "\u102d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/47.png",
+            "ascent": 7,
+            "height": 47,
+            "chars": [
+                "\u102e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/48.png",
+            "ascent": 7,
+            "height": 48,
+            "chars": [
+                "\u102f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/49.png",
+            "ascent": 7,
+            "height": 49,
+            "chars": [
+                "\u1030"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/50.png",
+            "ascent": 7,
+            "height": 50,
+            "chars": [
+                "\u1031"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/51.png",
+            "ascent": 7,
+            "height": 51,
+            "chars": [
+                "\u1032"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/52.png",
+            "ascent": 7,
+            "height": 52,
+            "chars": [
+                "\u1033"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/53.png",
+            "ascent": 7,
+            "height": 53,
+            "chars": [
+                "\u1034"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/54.png",
+            "ascent": 7,
+            "height": 54,
+            "chars": [
+                "\u1035"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/55.png",
+            "ascent": 7,
+            "height": 55,
+            "chars": [
+                "\u1036"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/56.png",
+            "ascent": 7,
+            "height": 56,
+            "chars": [
+                "\u1037"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/57.png",
+            "ascent": 7,
+            "height": 57,
+            "chars": [
+                "\u1038"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/58.png",
+            "ascent": 7,
+            "height": 58,
+            "chars": [
+                "\u1039"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/59.png",
+            "ascent": 7,
+            "height": 59,
+            "chars": [
+                "\u103a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/60.png",
+            "ascent": 7,
+            "height": 60,
+            "chars": [
+                "\u103b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/61.png",
+            "ascent": 7,
+            "height": 61,
+            "chars": [
+                "\u103c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/62.png",
+            "ascent": 7,
+            "height": 62,
+            "chars": [
+                "\u103d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/63.png",
+            "ascent": 7,
+            "height": 63,
+            "chars": [
+                "\u103e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/64.png",
+            "ascent": 7,
+            "height": 64,
+            "chars": [
+                "\u103f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/65.png",
+            "ascent": 7,
+            "height": 65,
+            "chars": [
+                "\u1040"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/66.png",
+            "ascent": 7,
+            "height": 66,
+            "chars": [
+                "\u1041"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/67.png",
+            "ascent": 7,
+            "height": 67,
+            "chars": [
+                "\u1042"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/68.png",
+            "ascent": 7,
+            "height": 68,
+            "chars": [
+                "\u1043"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/69.png",
+            "ascent": 7,
+            "height": 69,
+            "chars": [
+                "\u1044"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/70.png",
+            "ascent": 7,
+            "height": 70,
+            "chars": [
+                "\u1045"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/71.png",
+            "ascent": 7,
+            "height": 71,
+            "chars": [
+                "\u1046"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/72.png",
+            "ascent": 7,
+            "height": 72,
+            "chars": [
+                "\u1047"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/73.png",
+            "ascent": 7,
+            "height": 73,
+            "chars": [
+                "\u1048"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/74.png",
+            "ascent": 7,
+            "height": 74,
+            "chars": [
+                "\u1049"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/75.png",
+            "ascent": 7,
+            "height": 75,
+            "chars": [
+                "\u104a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/76.png",
+            "ascent": 7,
+            "height": 76,
+            "chars": [
+                "\u104b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/77.png",
+            "ascent": 7,
+            "height": 77,
+            "chars": [
+                "\u104c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/78.png",
+            "ascent": 7,
+            "height": 78,
+            "chars": [
+                "\u104d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/79.png",
+            "ascent": 7,
+            "height": 79,
+            "chars": [
+                "\u104e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/80.png",
+            "ascent": 7,
+            "height": 80,
+            "chars": [
+                "\u104f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/81.png",
+            "ascent": 7,
+            "height": 81,
+            "chars": [
+                "\u1050"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/82.png",
+            "ascent": 7,
+            "height": 82,
+            "chars": [
+                "\u1051"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/83.png",
+            "ascent": 7,
+            "height": 83,
+            "chars": [
+                "\u1052"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/84.png",
+            "ascent": 7,
+            "height": 84,
+            "chars": [
+                "\u1053"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/85.png",
+            "ascent": 7,
+            "height": 85,
+            "chars": [
+                "\u1054"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/86.png",
+            "ascent": 7,
+            "height": 86,
+            "chars": [
+                "\u1055"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/87.png",
+            "ascent": 7,
+            "height": 87,
+            "chars": [
+                "\u1056"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/88.png",
+            "ascent": 7,
+            "height": 88,
+            "chars": [
+                "\u1057"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/89.png",
+            "ascent": 7,
+            "height": 89,
+            "chars": [
+                "\u1058"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/90.png",
+            "ascent": 7,
+            "height": 90,
+            "chars": [
+                "\u1059"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/91.png",
+            "ascent": 7,
+            "height": 91,
+            "chars": [
+                "\u105a"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/92.png",
+            "ascent": 7,
+            "height": 92,
+            "chars": [
+                "\u105b"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/93.png",
+            "ascent": 7,
+            "height": 93,
+            "chars": [
+                "\u105c"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/94.png",
+            "ascent": 7,
+            "height": 94,
+            "chars": [
+                "\u105d"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/95.png",
+            "ascent": 7,
+            "height": 95,
+            "chars": [
+                "\u105e"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/96.png",
+            "ascent": 7,
+            "height": 96,
+            "chars": [
+                "\u105f"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/97.png",
+            "ascent": 7,
+            "height": 97,
+            "chars": [
+                "\u1060"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/98.png",
+            "ascent": 7,
+            "height": 98,
+            "chars": [
+                "\u1061"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/99.png",
+            "ascent": 7,
+            "height": 99,
+            "chars": [
+                "\u1062"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "chat:background/season/3/circuit/100.png",
+            "ascent": 7,
+            "height": 100,
+            "chars": [
+                "\u1063"
+            ]
+        }
+    ]
+}
